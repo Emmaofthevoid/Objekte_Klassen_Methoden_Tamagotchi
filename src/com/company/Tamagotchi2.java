@@ -1,5 +1,5 @@
 package com.company;
-
+//not static
 public class Tamagotchi2 {
     int x;
     int y;
